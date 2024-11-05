@@ -7,9 +7,6 @@
 - Focused on writing clean, well-documented code and collaborating effectively in team environments.
 - Currently expanding skills in **Data Analysis** and **Security**.
 
-### Programming Languages
-- **JavaScript**, **Python**, **PHP**, **SQL**, **Java**
-
 ## Tech Stack
 
 <p>
