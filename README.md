@@ -1,5 +1,10 @@
 # Hi, I'm Omer 👋  
-Information Systems Management student specializing in Data Science
+
+## **Information Systems Management Student Specializing in Data Science**
+
+- **Full Stack Developer with expertise in cloud-based applications using JavaScript, React, Node.js, and MongoDB on Linux.**
+- **Focused on clean, documented code and team collaboration.**
+- **Currently expanding skills in data analysis and security.**
 
 ## Tech Stack
 
