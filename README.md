@@ -1,10 +1,14 @@
-# Hi, I'm Omer 👋  
+# Hi, I'm Omer Elkayim! 👋  
 
 ## **Information Systems Management Student Specializing in Data Science**
 
-- **Full Stack Developer with expertise in cloud-based applications using JavaScript, React, Node.js, and MongoDB on Linux.**
-- **Focused on clean, documented code and team collaboration.**
-- **Currently expanding skills in data analysis and security.**
+### About Me
+- **Full Stack Developer** with expertise in cloud-based applications using JavaScript, React, Node.js, and MongoDB on Linux.
+- Focused on writing clean, well-documented code and collaborating effectively in team environments.
+- Currently expanding skills in **Data Analysis** and **Security**.
+
+### Programming Languages
+- **JavaScript**, **Python**, **PHP**, **SQL**, **Java**
 
 ## Tech Stack
 
