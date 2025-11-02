@@ -1,6 +1,7 @@
 # Hi, I'm Omer 
 
-## **Information Systems Management Student Specializing in Data Science**
+## **B.Sc. in Information Systems – Yezreel Valley College<img width="432" height="24" alt="image" src="https://github.com/user-attachments/assets/4e233853-3118-43cd-867d-874e051ee710" />
+**
 
 ### About Me
 - **Full Stack Developer** with expertise in cloud-based applications using JavaScript, React, Node.js, and MongoDB on Linux.
