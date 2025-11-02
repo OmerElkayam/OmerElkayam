@@ -1,4 +1,4 @@
-# Hi, I'm Omer 👋  
+# Hi, I'm Omer 
 
 ## **Information Systems Management Student Specializing in Data Science**
 
