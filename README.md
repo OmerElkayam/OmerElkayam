@@ -1,6 +1,6 @@
 # Hi, I'm Omer 
 
-## **B.Sc. in Information Systems – Yezreel Valley College<img width="432" height="24" alt="image" src="https://github.com/user-attachments/assets/4e233853-3118-43cd-867d-874e051ee710" />
+## B.Sc. in Information Systems – Yezreel Valley College<img width="432" height="24" alt="image" src="https://github.com/user-attachments/assets/4e233853-3118-43cd-867d-874e051ee710" />
 **
 
 ### About Me
