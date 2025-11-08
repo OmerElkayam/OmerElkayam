@@ -3,10 +3,15 @@
 ## B.Sc. in Information Systems – Yezreel Valley College<img width="432" height="24" alt="image" src="https://github.com/user-attachments/assets/4e233853-3118-43cd-867d-874e051ee710" />
 **
 
-### About Me
-- **Full Stack Developer** with expertise in cloud-based applications using JavaScript, React, Node.js, and MongoDB on Linux.
-- Focused on writing clean, well-documented code and collaborating effectively in team environments.
-- Currently expanding skills in **Data Analysis** and **Security**.
+About Me
+
+Cloud & DevOps Engineer with hands-on experience in cloud architecture, automation, and scalable infrastructure.
+
+Focused on deploying Deep Learning models into production environments and optimizing MLOps workflows.
+
+Skilled in Python, Docker, Kubernetes, AWS, TensorFlow, and Linux.
+
+Continuously learning and experimenting with cloud automation, CI/CD, and AI-driven systems.
 
 ## Tech Stack
 
