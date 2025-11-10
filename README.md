@@ -7,64 +7,43 @@
 
 ## ☁️ Cloud & DevOps Engineer | Linux & Automation Specialist  
 
-Cloud & DevOps Engineer with hands-on experience in **cloud architecture, infrastructure automation, and scalable CI/CD pipelines**.  
+Cloud & DevOps Engineer with hands-on experience in **cloud architecture, infrastructure automation, and CI/CD pipelines**.  
 Focused on deploying **Deep Learning models** into production and optimizing **MLOps workflows**.  
 
 - 🐧 Strong background in **Linux systems**, **Docker**, **Kubernetes**, and **AWS**  
-- ⚙️ Skilled in **Python scripting**, **API integrations**, and **automation**  
+- ⚙️ Skilled in **Python scripting**, **API integrations**, and **cloud automation**  
 - 🚀 Passionate about **infrastructure reliability**, **DevOps best practices**, and **continuous learning**
 
 ---
 
-## 🧩 Featured Projects
+## 🧠 Tech Stack  
 
-### 🧠 [Skin Disease Prediction (Final Project)](https://github.com/OmerElkayam/skin-disease-prediction)
-Deep Learning model (EfficientNet + Grad-CAM) for skin lesion classification.  
-Deployed with explainability visualization and performance metrics dashboard.
-
----
-
-### 🌦️ [Weather Data Analysis with OpenWeatherMap API](https://github.com/OmerElkayam/Weather-Data-Analysis-with-OpenWeatherMap-API)
-Real-time weather data collection and analysis using **OpenWeatherMap API**.  
-Includes **data cleaning, visualization, and structured export** with **Pandas**.
-
----
-
-### 🌍 [GeoDB Cities API Data Collection](https://github.com/OmerElkayam/GeoDB-Cities-API-Data-Collection)
-Automated data pipeline fetching **global city information** via **GeoDB Cities API**.  
-Implements scalable **ETL-style data export** and **multi-format outputs**.
-
----
-
-## ⚙️ Tech Stack  
-
-**Infrastructure & DevOps:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" height="30" />  
-
-**Programming & Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" />  
-
-**Data & ML:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30" />  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+</p>
 
 ---
 
 ## 🔭 Current Focus
 
-- Automating **Linux-based cloud workflows**  
-- Experimenting with **Terraform**, **Ansible**, and **FastAPI-based APIs**  
-- Improving **MLOps and deployment pipelines**  
-- Developing **secure, scalable DevOps environments**
+- Automating **Linux-based cloud environments**  
+- Building **scalable CI/CD pipelines**  
+- Experimenting with **Ansible**, **Terraform**, and **FastAPI microservices**  
+- Expanding expertise in **MLOps** and **cloud-native systems**
 
 ---
 
