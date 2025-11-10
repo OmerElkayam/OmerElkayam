@@ -1,4 +1,8 @@
-<!-- Title -->
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding animation">
+</p>
+
 <h2 align="center">I'm Omer – Information Systems Graduate (Data Science)</h2>
 
 ---
@@ -58,7 +62,7 @@
 
 ### Connect with me  
 
-<p align="center">
+<p align="left">
   <a href="mailto:omerel963@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
