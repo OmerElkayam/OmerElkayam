@@ -1,19 +1,19 @@
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="500" alt="DevOps GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
 </p>
 
-<h2 align="center">I'm Omer – Cloud & DevOps Engineer ☁️</h2>
+<h2 align="center">I'm Omer – Information Systems Graduate (Data Science) 🎓</h2>
 
 ---
 
 ### 🚀 About Me  
 
-- 🧠 Passionate about **Linux, Cloud Infrastructure, and Automation**  
-- ☁️ Experienced with **AWS, Docker, Kubernetes, and CI/CD pipelines**  
-- 🤖 Deploying **Deep Learning models** and building **MLOps workflows**  
-- 🔧 Skilled in **Python scripting**, **APIs**, and **system automation**  
-- 💬 Constantly learning new DevOps and cloud-native technologies  
+- 🧠 Passionate about **Data Science, Cloud Infrastructure, and Automation**  
+- 🤖 Experienced with **AI/ML, DevOps tools, and scalable system design**  
+- ☁️ Skilled in **Python, Linux, Docker, Kubernetes, and AWS**  
+- 🔧 Enjoy integrating **APIs**, automating workflows, and optimizing pipelines  
+- 💬 Always learning — currently focusing on **MLOps and Cloud Engineering**  
 
 ---
 
@@ -25,7 +25,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=github-actions&logoColor=white)
 
 #### 🧠 AI & Data  
@@ -53,10 +52,10 @@
 
 ### 🎯 Currently Working On  
 
-- Automating **Linux-based servers** and cloud deployments  
-- Building **CI/CD pipelines** using **GitHub Actions & Docker**  
-- Experimenting with **Terraform, FastAPI**, and **cloud orchestration**  
-- Developing **MLOps environments** for Deep Learning models  
+- Automating **data collection & cloud workflows**  
+- Developing **ETL pipelines** with **Python & APIs**  
+- Deploying **Deep Learning models** in **Dockerized environments**  
+- Building **MLOps-ready systems** with **FastAPI + AWS**
 
 ---
 
@@ -77,5 +76,5 @@
 ---
 
 <p align="center">
-  <b>“Automate. Deploy. Learn. Repeat.”</b>  
+  <b>“Data. Deploy. Automate. Repeat.”</b>  
 </p>
